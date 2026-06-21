@@ -11,7 +11,7 @@
 ## 如何运行
 
 ### 1. 克隆项目
-git clone https://github.com/你的用户名/ai-chat-app.git
+git clone https://github.com/scan068/ai-chat-app.git
 cd ai-chat-app
 
 ### 2. 安装后端依赖
